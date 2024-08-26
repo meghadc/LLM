@@ -1,7 +1,7 @@
 
 # ChatBot: News Research Tool 
 
-ChatBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+The ChatBot is an intuitive news research tool that simplifies information retrieval. Users can enter article URLs and ask questions to quickly obtain relevant insights related to the stock market and financial domain.
 
 <img width="1446" alt="image" src="https://github.com/user-attachments/assets/7f810b3c-3c56-4597-8948-5cd816fe7d40">
 
