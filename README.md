@@ -14,13 +14,6 @@ ChatBot is a user-friendly news research tool designed for effortless informatio
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
 
-## Installation
-
-1.Navigate to the project directory LLM
-2.Install the required dependencies given in the requirement.txt using pip 
-3.Set up your OpenAI API key by creating a .env file in the project root and adding your API
-
-
 ## Usage/Examples
 
 1. Run the Streamlit app by executing:
